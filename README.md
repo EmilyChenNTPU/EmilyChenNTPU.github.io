@@ -1,11 +1,20 @@
-### 🌱Education
+### 🌱 Education
 ---
 - 👩‍🎓Bachelor of Business Administration in Information Management, Chang Gung University, Taoyuan, Taiwan
 <br><br>
 ### 📫 How to reach me
 ---
 -  **qinerinsky@gmail.com**<br><br>
-### ⚙️Languages and Tools
+### 📂 Project
+---
+- Senior project:<br>
+[Long-term care service robot in java -1](https://github.com/zyanya217/TemiRobot)<br>
+[Long-term care service robot in java -2](https://github.com/zyanya217/TemiRobot2)<br>
+[Robot face recognition & machine learning practice in python](https://github.com/qinelin/TEMI_2)<br>
+- Windows programming:<br>
+[Cinema Ticketing System in C#](https://github.com/qinelin/MovieTicketingSystem)
+<br><br>
+### ⚙️ Languages and Tools
 ---
 - Programming Languages:
 <p align="left">
@@ -27,9 +36,7 @@
 </p>
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-### Project
----
-[Windows programming - Cinema Ticketing System](https://github.com/qinelin/MovieTicketingSystem)
+
 
 <!--![qinelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=qinelin&show_icons=true&theme=radical)-->
 
