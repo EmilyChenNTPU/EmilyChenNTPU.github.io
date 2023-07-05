@@ -7,7 +7,7 @@
 -  **qinerinsky@gmail.com**<br><br>
 ### 📂 Project
 ---
-- Senior project:<br>
+**- Senior project:<br>**
 [Long-term care service robot in java -1](https://github.com/zyanya217/TemiRobot)<br>
 [Long-term care service robot in java -2](https://github.com/zyanya217/TemiRobot2)<br>
 [Robot face recognition & machine learning practice in python](https://github.com/qinelin/TEMI_2)<br>
